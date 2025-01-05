@@ -1,0 +1,11 @@
+format: jb-book
+root: intro
+chapters:
+- file: code
+  sections:
+    - file: code/Main_file_extract.ipynb
+    - file: code/y_profiling.ipynb
+    - file: code/Exp_Loan_Classification.ipynb
+    - file: code/main.ipynb
+    - file: code/app.ipynb
+- file: implinks

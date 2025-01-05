@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+joblib
+numpy
+pandas
+scikit-learn
+librosa
+python-multipart
+pydub
+streamlit
+uuid
